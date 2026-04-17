@@ -16,7 +16,7 @@ The app helps users monitor sleep habits, connect health-related data, and view 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/HomePage.jpeg)
 
 ### Health Connect Screen
 ![Health Connect Screen](assets/screenshots/health-connect.png)
