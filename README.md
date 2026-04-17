@@ -15,23 +15,17 @@ The app helps users monitor sleep habits, connect health-related data, and view 
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](assets/screenshots/HomePage.jpeg)
+<p align="center">
+  <img src="assets/screenshots/HomePage.jpeg" alt="Home Screen" width="230"/>
+  <img src="assets/screenshots/Health-Connect.jpeg" alt="Health Connect Screen" width="230"/>
+  <img src="assets/screenshots/Smart-Assistant.jpeg" alt="AI Screen" width="230"/>
+</p>
 
-### Health Connect Screen
-![Health Connect Screen](assets/screenshots/Health-Connect.jpeg)
-
-### AI Screen
-![AI Screen](assets/screenshots/Smart-Assistant.jpeg)
-
-### Sleep Summary Screen
-![Sleep Summary Screen](assets/screenshots/Sleep-Calculator.jpeg)
-
-### Hydration Screen
-![Hydration Screen](assets/screenshots/Hydration-Tracker.jpeg)
-
-### Alarm Screen
-![Alarm Screen](assets/screenshots/alarm.jpeg)
+<p align="center">
+  <img src="assets/screenshots/Sleep-Calculator.jpeg" alt="Sleep Summary Screen" width="230"/>
+  <img src="assets/screenshots/Hydration-Tracker.jpeg" alt="Hydration Screen" width="230"/>
+  <img src="assets/screenshots/alarm.jpeg" alt="Alarm Screen" width="230"/>
+</p>
 
 ## Tech Stack
 
